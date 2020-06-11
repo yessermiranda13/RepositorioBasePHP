@@ -6,6 +6,8 @@
     //imprimamos un mensaje PHP
     echo 'Hola mundo';
 
+    echo 'Bienvenidos al curso de Programacion Web II';
+
     //y luego incluir el resto del codigo HTML
     require 'index.html';
 
